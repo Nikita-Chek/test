@@ -15,8 +15,7 @@ int main()
 {
 	int min = 0, max = 1;
 	fun(min, max);
-	cout<<max<<" "<<min; 
-	int y=0;
+	cout<<max<<" "<<min;
 	int x=0;
 	return 0;
 }
